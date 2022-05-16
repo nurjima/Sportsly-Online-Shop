@@ -28,9 +28,12 @@ And finally you make migrations to the database, create a super user, and run th
 
 ```
 python manage.py makemigrations
-
+```
+```
 python manage.py migrate
+```
 
+```
 python manage.py runserver
 ```
 ***Note:** If you are a MAC/Linux User type 3, after keywords - pip and python*
